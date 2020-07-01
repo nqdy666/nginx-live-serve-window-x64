@@ -1,0 +1,1 @@
+ffmpeg -re -stream_loop -1 -i video2.mp4 -c copy -f  flv rtmp://localhost:1935/hls/video2
