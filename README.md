@@ -36,6 +36,9 @@ http://localhost:8090/flv?port=1935&app=hls&stream=video2
 
 ### 使用推流地址
 
+参看这个项目的使用
+
+https://github.com/nqdy666/videojs-live-demo
 
 ### 注意事项
 
