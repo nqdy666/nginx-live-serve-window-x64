@@ -1,5 +1,5 @@
-# logs
-# !logs/.gitkeep
+logs
+!logs/.gitkeep
 
-# temp
-# !temp/.gitkeep
+temp
+!temp/.gitkeep
